@@ -19,8 +19,8 @@ import java.util.List;
 
 public class Twilliosmssender extends JFrame {
 
-    private static final String TWILIO_ACCOUNT_SID = "AC600d70d27aaf506d7956053c2a53ba3d";
-    private static final String TWILIO_AUTH_TOKEN = "82bd0a16c95d30dd6d8bf48947ba61c5";
+    private static final String TWILIO_ACCOUNT_SID = "";
+    private static final String TWILIO_AUTH_TOKEN = "";
 
     private JTextArea logTextArea;
     private File selectedFile;
